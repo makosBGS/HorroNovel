@@ -1,0 +1,396 @@
+{
+  "kind": "blogger#postList",
+  "items": [
+    {
+      "kind": "blogger#post",
+      "id": "5679256762243000208",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-19T01:16:00-07:00",
+      "updated": "2021-06-19T01:16:21-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/black-magic-part-ithe-nun.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/5679256762243000208",
+      "title": "Black Magic PART I.—THE NUN",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/5679256762243000208/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDkwNTgxNjg2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "616018920931933858",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-19T01:08:00-07:00",
+      "updated": "2021-06-19T01:08:06-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/black-magic-part-iithe-pope.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/616018920931933858",
+      "title": "Black Magic PART II—THE POPE",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/616018920931933858/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDkwMDg2MzM0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "5978358093785200933",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-19T01:02:00-07:00",
+      "updated": "2021-06-19T01:02:46-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/brood-of-witch-queen.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/5978358093785200933",
+      "title": "Brood of the Witch Queen",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/5978358093785200933/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg5NzY2MzY5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "657893342469410869",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-19T00:56:00-07:00",
+      "updated": "2021-06-19T00:56:58-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/brood-of-witch-queen-book-2.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/657893342469410869",
+      "title": "Brood of the Witch Queen Book 2",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/657893342469410869/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg5NDE4Nzc2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "945297160281826749",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-19T00:31:00-07:00",
+      "updated": "2021-06-19T00:31:31-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/frankenstein-or-modern-prometheus.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/945297160281826749",
+      "title": "Frankenstein, or the Modern Prometheus ",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/945297160281826749/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg3ODkxODIwCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2208834662984102454",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-19T00:07:00-07:00",
+      "updated": "2021-06-19T00:07:49-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-garden-at-no-19.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/2208834662984102454",
+      "title": "The Garden at No. 19",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/2208834662984102454/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg2NDY5NzI5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "4095072541333124928",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T23:54:00-07:00",
+      "updated": "2021-06-18T23:54:58-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-mummy.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/4095072541333124928",
+      "title": "The Mummy",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/4095072541333124928/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg1Njk4NjIyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2203590237528625238",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T23:41:00-07:00",
+      "updated": "2021-06-18T23:41:47-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/in-dwellings-of-wilderness.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/2203590237528625238",
+      "title": "In the Dwellings of the Wilderness",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/2203590237528625238/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg0OTA3OTQyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "2342663800918758244",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T23:36:00-07:00",
+      "updated": "2021-06-18T23:36:17-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-lodger.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/2342663800918758244",
+      "title": "The Lodger",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/2342663800918758244/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDg0NTc3NDY3Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6275189121675922210",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T22:39:00-07:00",
+      "updated": "2021-06-18T22:39:30-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-master-of-stair-book-1.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/6275189121675922210",
+      "title": "The Master of Stair Book 1",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/6275189121675922210/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDgxMTcwODU4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "6747490564915624989",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T22:30:00-07:00",
+      "updated": "2021-06-18T22:45:29-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-master-of-stair-book-2.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/6747490564915624989",
+      "title": "The Master of Stair Book 2",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/6747490564915624989/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDgxNTI5NTM5Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "1621007563815762525",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T12:05:00-07:00",
+      "updated": "2021-06-18T12:05:12-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-terror.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/1621007563815762525",
+      "title": "The Terror",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/1621007563815762525/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDQzMTEyOTI4Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "7134280569749517175",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T11:59:00-07:00",
+      "updated": "2021-06-18T11:59:36-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-great-god-pan.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/7134280569749517175",
+      "title": "The Great God Pan",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/7134280569749517175/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDQyNzc2MjE0Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "8692688849057358074",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T11:55:00-07:00",
+      "updated": "2021-06-18T11:55:56-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-three-impostors.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/8692688849057358074",
+      "title": "The Three Impostors",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/8692688849057358074/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDQyNTU2MzQyCm9mZnNldDogLTI1MjAwMDAwCg\""
+    },
+    {
+      "kind": "blogger#post",
+      "id": "221198811686341217",
+      "blog": {
+        "id": "4035225954612202040"
+      },
+      "published": "2021-06-18T11:49:00-07:00",
+      "updated": "2021-06-18T11:49:14-07:00",
+      "url": "http://horrornovelsbook.blogspot.com/2021/06/the-whisperer-in-darkness.html",
+      "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/221198811686341217",
+      "title": "The Whisperer in Darkness",
+      "content": "",
+      "author": {
+        "id": "10363677138564434824",
+        "displayName": "Glossary of electrical and electronics engineering",
+        "url": "https://www.blogger.com/profile/10363677138564434824",
+        "image": {
+          "url": "//www.blogger.com/img/blogger_logo_round_35.png"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://www.googleapis.com/blogger/v3/blogs/4035225954612202040/posts/221198811686341217/comments"
+      },
+      "etag": "\"dGltZXN0YW1wOiAxNjI0MDQyMTU0NDk2Cm9mZnNldDogLTI1MjAwMDAwCg\""
+    }
+  ],
+  "etag": "\"MjAyMS0wNi0xOVQwODoxNjoyMS42ODZa\""
+}
